@@ -14,10 +14,8 @@ $ npm install gerador-pessoas
 
 ## Exemplo
 ```bash
-const Gerador = require('gerador-pessoas');
+const gerador = require('gerador-pessoas');
 
-//Cria uma instância do gerador
-const gerador = new Gerador()
 //Habilita campos
 gerador.setCampoNome("nome_cliente");
 gerador.setCampoCpf();

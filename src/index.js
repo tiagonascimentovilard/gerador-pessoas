@@ -1,3 +1,3 @@
-const Gerador = require('./gen/gerador');
+const gerador = require('./gen/gerador');
 
-module.exports = Gerador;
+module.exports = gerador;

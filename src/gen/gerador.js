@@ -4,7 +4,7 @@ import {geradorNome} from "./geradorNome";
 import {geradorEndereco} from "./geradorEndereco";
 
 
-export default class Gerador {
+class Gerador {
 
   _quantidade = 0;
   _registros = [{ "index":0 }];
@@ -169,3 +169,6 @@ export default class Gerador {
 
 }
 
+const gerador = new Gerador();
+
+export default gerador;
