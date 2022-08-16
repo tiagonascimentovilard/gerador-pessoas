@@ -14,7 +14,7 @@ $ npm install gerador-pessoas
 
 ## Exemplo
 ```bash
-const gerador = require('gerador-pessoas');
+import gerador from 'gerador-pessoas';
 
 //Habilita campos
 gerador.setCampoNome("nome_cliente");
