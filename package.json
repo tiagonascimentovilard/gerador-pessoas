@@ -1,0 +1,26 @@
+{
+  "name": "gerador-pessoas",
+  "version": "1.0.0",
+  "description": "Biblioteca para geração de registros de pessoas físicas, com dados aleatórios",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagonascimentovilard/gerador-pessoas.git"
+  },
+  "keywords": [
+    "gerador",
+    "pessoas",
+    "cadastro",
+    "teste",
+    "usuario"
+  ],
+  "author": "Tiago Nascimento <vilard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagonascimentovilard/gerador-pessoas/issues"
+  },
+  "homepage": "https://github.com/tiagonascimentovilard/gerador-pessoas#readme"
+}
