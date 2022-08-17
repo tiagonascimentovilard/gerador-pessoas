@@ -1,11 +1,11 @@
 {
   "name": "gerador-pessoas",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Biblioteca para geração de registros de pessoas físicas, com dados aleatórios",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tiagonascimentovilard/gerador-pessoas.git"
+    "url": "git+https://github.com/tiagonascimentovilard/gerador-pessoas.git"
   },
   "keywords": [
     "gerador",
